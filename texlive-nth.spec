@@ -3,7 +3,7 @@ Version:	54252
 Release:	2
 Summary:	Generate English ordinal numbers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nth
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/nth
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nth.r%{version}.tar.xz
 BuildArch:	noarch
